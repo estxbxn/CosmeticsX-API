@@ -9,12 +9,6 @@ export class ProfileRoutes {
   */
   public static start(): void {
     Route.get("api/v1/cosmetics/profile/:uuid", async ({ params }) => {
-      // const result = await DatabaseManager.select_all(
-      //   "elarys",
-      //   "beta-allowed",
-      //   {}
-      // );
-
       const result = {
         ok: false,
         message:
