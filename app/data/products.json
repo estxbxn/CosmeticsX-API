@@ -12,5 +12,5 @@
     "description": "The second product in the store",
     "price": 25.0,
     "currency": "GEM"
-  },
+  }
 ]
