@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "First Product",
+    "description": "The first product in the store",
+    "price": 55.0,
+    "currency": "GEM"
+  },
+  {
+    "id": 1,
+    "title": "Second Product",
+    "description": "The second product in the store",
+    "price": 25.0,
+    "currency": "GEM"
+  },
+]
